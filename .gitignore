@@ -1,0 +1,5 @@
+# keep the original photo and its intermediate out of the public repo
+source-photo.*
+source-prepped.png
+.venv/
+__pycache__/
