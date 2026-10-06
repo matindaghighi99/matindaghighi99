@@ -6,22 +6,23 @@
 <line x1="0" y1="30" x2="490" y2="30" stroke="#30363d"/>
 <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" xml:space="preserve">
 <g class="ln" style="animation-delay:0.60s"><text x="22" y="60" fill="#8b949e">matt@github ~ $ neofetch</text></g>
-<g class="ln" style="animation-delay:0.72s"><text x="22" y="82" font-weight="bold"><tspan fill="#39d353">matt</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#39d353">github</tspan></text></g>
-<g class="ln" style="animation-delay:0.84s"><text x="22" y="104" fill="#8b949e">-----------</text></g>
-<g class="ln" style="animation-delay:0.96s"><text x="22" y="126"><tspan fill="#39d353" font-weight="bold">Name</tspan><tspan fill="#c9d1d9" x="89.5">Matt Daghighi</tspan></text></g>
-<g class="ln" style="animation-delay:1.08s"><text x="22" y="148"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan fill="#c9d1d9" x="89.5">Founder · Precisa Solutions</tspan></text></g>
-<g class="ln" style="animation-delay:1.20s"><text x="22" y="170"><tspan fill="#39d353" font-weight="bold">Does</tspan><tspan fill="#c9d1d9" x="89.5">Website development · AI software</tspan></text></g>
-<g class="ln" style="animation-delay:1.32s"><text x="22" y="192"><tspan fill="#39d353" font-weight="bold"> </tspan><tspan fill="#c9d1d9" x="89.5">for businesses: leads + customer support</tspan></text></g>
-<g class="ln" style="animation-delay:1.44s"><text x="22" y="214"><tspan fill="#39d353" font-weight="bold">Study</tspan><tspan fill="#c9d1d9" x="89.5">Computer Programming · C++ / OOP</tspan></text></g>
-<g class="ln" style="animation-delay:1.68s"><text x="22" y="247"><tspan fill="#39d353" font-weight="bold">Langs</tspan><tspan fill="#c9d1d9" x="89.5">TypeScript · JavaScript · Python · C# · C++</tspan></text></g>
-<g class="ln" style="animation-delay:1.80s"><text x="22" y="269"><tspan fill="#39d353" font-weight="bold">Stack</tspan><tspan fill="#c9d1d9" x="89.5">Node.js · Express · Unity · HTML/CSS</tspan></text></g>
-<g class="ln" style="animation-delay:1.92s"><text x="22" y="291"><tspan fill="#39d353" font-weight="bold">Focus</tspan><tspan fill="#c9d1d9" x="89.5">AI agents · automation · web · games</tspan></text></g>
-<g class="ln" style="animation-delay:2.16s"><text x="22" y="324" fill="#58a6ff" font-weight="bold">Projects</text></g>
-<g class="ln" style="animation-delay:2.28s"><text x="22" y="346"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">blackjack</tspan><tspan fill="#8b949e">: Unity/C# social casino + Node API</tspan></text></g>
-<g class="ln" style="animation-delay:2.40s"><text x="22" y="368"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">MatinShapeAutomations</tspan><tspan fill="#8b949e">: AI automation agency</tspan></text></g>
-<g class="ln" style="animation-delay:2.52s"><text x="22" y="390"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">Axion</tspan><tspan fill="#8b949e">: premium automation website</tspan></text></g>
-<g class="ln" style="animation-delay:2.64s"><text x="22" y="412"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">gainn, Crania, robots</tspan><tspan fill="#8b949e">: web builds</tspan></text></g>
-<g class="ln" style="animation-delay:2.88s"><text x="22" y="445"><tspan fill="#39d353" font-weight="bold">Contact</tspan><tspan fill="#c9d1d9" x="89.5">github.com/matindaghighi99</tspan></text></g>
-<g class="ln" style="animation-delay:3.12s"><rect x="22" y="477" width="16" height="16" rx="3" fill="#161b22"/><rect x="42" y="477" width="16" height="16" rx="3" fill="#0e4429"/><rect x="62" y="477" width="16" height="16" rx="3" fill="#006d32"/><rect x="82" y="477" width="16" height="16" rx="3" fill="#26a641"/><rect x="102" y="477" width="16" height="16" rx="3" fill="#39d353"/><rect x="122" y="477" width="16" height="16" rx="3" fill="#69f0a0"/><rect x="142" y="477" width="16" height="16" rx="3" fill="#58a6ff"/><rect x="162" y="477" width="16" height="16" rx="3" fill="#c9d1d9"/></g>
+<g class="ln" style="animation-delay:0.72s"><text x="22" y="81" font-weight="bold"><tspan fill="#39d353">matt</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#39d353">github</tspan></text></g>
+<g class="ln" style="animation-delay:0.84s"><text x="22" y="102" fill="#8b949e">-----------</text></g>
+<g class="ln" style="animation-delay:0.96s"><text x="22" y="123"><tspan fill="#39d353" font-weight="bold">Name</tspan><tspan fill="#c9d1d9" x="89.5">Matt Daghighi</tspan></text></g>
+<g class="ln" style="animation-delay:1.08s"><text x="22" y="144"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan fill="#c9d1d9" x="89.5">Founder · Precisa Solutions</tspan></text></g>
+<g class="ln" style="animation-delay:1.20s"><text x="22" y="165"><tspan fill="#39d353" font-weight="bold">Does</tspan><tspan fill="#c9d1d9" x="89.5">Website development · AI software</tspan></text></g>
+<g class="ln" style="animation-delay:1.32s"><text x="22" y="186"><tspan fill="#39d353" font-weight="bold"> </tspan><tspan fill="#c9d1d9" x="89.5">for businesses: leads + customer support</tspan></text></g>
+<g class="ln" style="animation-delay:1.44s"><text x="22" y="207"><tspan fill="#39d353" font-weight="bold">Study</tspan><tspan fill="#c9d1d9" x="89.5">Computer Programming · C++ / OOP</tspan></text></g>
+<g class="ln" style="animation-delay:1.68s"><text x="22" y="238"><tspan fill="#39d353" font-weight="bold">Langs</tspan><tspan fill="#c9d1d9" x="89.5">TypeScript · JavaScript · Python · C# · C++</tspan></text></g>
+<g class="ln" style="animation-delay:1.80s"><text x="22" y="259"><tspan fill="#39d353" font-weight="bold">Stack</tspan><tspan fill="#c9d1d9" x="89.5">Node.js · Express · Unity · HTML/CSS</tspan></text></g>
+<g class="ln" style="animation-delay:1.92s"><text x="22" y="280"><tspan fill="#39d353" font-weight="bold">Focus</tspan><tspan fill="#c9d1d9" x="89.5">AI agents · automation · web · games</tspan></text></g>
+<g class="ln" style="animation-delay:2.16s"><text x="22" y="311" fill="#58a6ff" font-weight="bold">Projects</text></g>
+<g class="ln" style="animation-delay:2.28s"><text x="22" y="332"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">Bloom-ai-engine</tspan><tspan fill="#8b949e"></tspan></text></g>
+<g class="ln" style="animation-delay:2.40s"><text x="22" y="353"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">billing-anomaly-detection</tspan><tspan fill="#8b949e">: ML for billing audits</tspan></text></g>
+<g class="ln" style="animation-delay:2.52s"><text x="22" y="374"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">MatinShapeAutomations</tspan><tspan fill="#8b949e">: AI automation agency</tspan></text></g>
+<g class="ln" style="animation-delay:2.64s"><text x="22" y="395"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">gainn, Crania, robots</tspan><tspan fill="#8b949e">: web builds</tspan></text></g>
+<g class="ln" style="animation-delay:2.76s"><text x="22" y="416"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9" font-weight="bold">blackjack</tspan><tspan fill="#8b949e">: Unity/C# social casino + Node API</tspan></text></g>
+<g class="ln" style="animation-delay:3.00s"><text x="22" y="447"><tspan fill="#39d353" font-weight="bold">Contact</tspan><tspan fill="#c9d1d9" x="89.5">github.com/matindaghighi99</tspan></text></g>
+<g class="ln" style="animation-delay:3.24s"><rect x="22" y="477" width="16" height="16" rx="3" fill="#161b22"/><rect x="42" y="477" width="16" height="16" rx="3" fill="#0e4429"/><rect x="62" y="477" width="16" height="16" rx="3" fill="#006d32"/><rect x="82" y="477" width="16" height="16" rx="3" fill="#26a641"/><rect x="102" y="477" width="16" height="16" rx="3" fill="#39d353"/><rect x="122" y="477" width="16" height="16" rx="3" fill="#69f0a0"/><rect x="142" y="477" width="16" height="16" rx="3" fill="#58a6ff"/><rect x="162" y="477" width="16" height="16" rx="3" fill="#c9d1d9"/></g>
 </g>
 </svg>

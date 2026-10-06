@@ -26,10 +26,11 @@ CARD = [
     ("Focus", "AI agents · automation · web · games"),
     ("", ""),
     ("#", "Projects"),
-    ("-", "blackjack: Unity/C# social casino + Node API"),
+    ("-", "Bloom-ai-engine"),
+    ("-", "billing-anomaly-detection: ML for billing audits"),
     ("-", "MatinShapeAutomations: AI automation agency"),
-    ("-", "Axion: premium automation website"),
     ("-", "gainn, Crania, robots: web builds"),
+    ("-", "blackjack: Unity/C# social casino + Node API"),
     ("", ""),
     ("Contact", "github.com/matindaghighi99"),
 ]
@@ -39,7 +40,7 @@ DEFAULT_HEIGHT = 530
 PAD_X = 22
 TITLE_H = 30
 FONT_SIZE = 12.5
-LINE_H = 22
+LINE_H = 21
 BG = "#0d1117"
 BORDER = "#30363d"
 FG = "#c9d1d9"
