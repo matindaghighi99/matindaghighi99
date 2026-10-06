@@ -13,11 +13,12 @@ import re
 USER = "matt@github"
 
 # ("key", "value") rows; ("", "") is a blank spacer; ("#", "text") is a section heading;
-# ("-", "text") is a bullet line.
+# ("-", "text") is a bullet line; (" ", "text") continues the previous value.
 CARD = [
     ("Name", "Matt Daghighi"),
-    ("Now", "Founder · MatinShape Automations"),
-    ("Does", "AI software for businesses: leads + support"),
+    ("Now", "Founder · Precisa Solutions"),
+    ("Does", "Website development · AI software"),
+    (" ", "for businesses: leads + customer support"),
     ("Study", "Computer Programming · C++ / OOP"),
     ("", ""),
     ("Langs", "TypeScript · JavaScript · Python · C# · C++"),
