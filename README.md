@@ -1,5 +1,6 @@
 <div align="center">
 
+<table>
   <tr>
     <td colspan="2" align="center"><img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" /></td>
   </tr>
