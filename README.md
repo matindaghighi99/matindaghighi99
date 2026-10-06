@@ -1,7 +1,5 @@
 <div align="center">
 
-<h3><code>matt@github ~ $ ./contributions.sh</code></h3>
-<table>
   <tr>
     <td colspan="2" align="center"><img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" /></td>
   </tr>
