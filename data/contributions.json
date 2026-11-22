@@ -1,15 +1,15 @@
 {
  "user": "matindaghighi99",
- "fetched_at": "2026-11-21T14:37:16+00:00",
- "total": 516,
+ "fetched_at": "2026-11-22T14:31:12+00:00",
+ "total": 517,
  "stats": {
-  "current_streak": 46,
-  "longest_streak": 46,
+  "current_streak": 47,
+  "longest_streak": 47,
   "best_day": {
    "date": "2026-08-05",
    "count": 48
   },
-  "active_days": 96,
+  "active_days": 97,
   "monthly": {
    "2025-11": 0,
    "2025-12": 0,
@@ -23,45 +23,10 @@
    "2026-08": 91,
    "2026-09": 94,
    "2026-10": 105,
-   "2026-11": 86
+   "2026-11": 87
   }
  },
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1879,6 +1844,11 @@
   },
   {
    "date": "2026-11-21",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
